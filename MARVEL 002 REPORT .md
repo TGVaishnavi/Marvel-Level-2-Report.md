@@ -9,7 +9,7 @@ This mechanical gripper uses two symmetrical jaws powered by interconnected spur
 For this task, I designed and assembled the Lego man in Fusion 360 by creating its individual parts and applying appropriate joint relationships, such as revolute joints for the arms and legs, to simulate realistic motion. Using motion studies, I explored how these joints interact and understood the movement constraints of the assembly, successfully animating actions like walking and waving.
 
 I rendered  the Lego parts and selected an outdoor environment with a cobblestone street. To enhance realism, I set the lighting to sunset timing, which created natural shadows and a warm ambience. The final render placed the Lego man in a lively outdoor setting, making it appear integrated with the environment, and this process helped me gain a deeper understanding of both animation and rendering tools in Fusion 360.
-![photo](https://raw.githubusercontent.com/TGVaishnavi/Iamges/refs/heads/main/Screenshot%202025-09-05%20171034.png)
+![photo](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/Screenshot%202025-10-26%20193731.png)
 
 # Introduction to Laser Engraving
 
@@ -159,5 +159,6 @@ Additional key benefits include:
 ---
 
 ## Conclusion
+
 
 Laser engraving represents a powerful and versatile technology that bridges the gap between traditional craftsmanship and modern digital manufacturing. Its precision, permanence, and ease of use make it invaluable in both educational settings and industrial production environments. Whether creating custom keychains for lab branding or permanent product identification markers, laser engraving offers a reliable, efficient solution that continues to revolutionize how we mark and customize materials.
