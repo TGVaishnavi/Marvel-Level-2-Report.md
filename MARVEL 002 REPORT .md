@@ -9,6 +9,9 @@ The aerofoil designed in Level 1 – Task 2(a) was imported into Autodesk CFD an
 
 The simulation was carried out to study the airflow around the aerofoil and to calculate the lift force generated. The results obtained from the simulation were analyzed, and a report was generated using Autodesk CFD. The generated [report](https://docs.google.com/document/d/1xQMYiv2H-Eu7YTXL4gLikeBLfInwxBzjfpX2Hb-leuM/edit?usp=sharing).
 
+## Generative Design: Generative Design
+
+
 ## Animation and rendering 
 For this task, I designed and assembled the Lego man in Fusion 360 by creating its individual parts and applying appropriate joint relationships, such as revolute joints for the arms and legs, to simulate realistic motion. Using motion studies, I explored how these joints interact and understood the movement constraints of the assembly, successfully animating actions like walking and waving.
 
@@ -166,5 +169,6 @@ Additional key benefits include:
 
 
 Laser engraving represents a powerful and versatile technology that bridges the gap between traditional craftsmanship and modern digital manufacturing. Its precision, permanence, and ease of use make it invaluable in both educational settings and industrial production environments. Whether creating custom keychains for lab branding or permanent product identification markers, laser engraving offers a reliable, efficient solution that continues to revolutionize how we mark and customize materials.
+
 
 
