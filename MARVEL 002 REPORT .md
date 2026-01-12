@@ -4,6 +4,10 @@
 This mechanical gripper uses two symmetrical jaws powered by interconnected spur gears, letting both sides move together for a steady and reliable grip. After designing each part, they were assembled in Fusion 360 with carefully applied constraints to ensure smooth, controlled motion.
 ![photo](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/Screenshot%202025-10-06%20180841.png)
 
+## Computational Fluid Dynamics
+The aerofoil designed in Level 1 – Task 2(a) was imported into Autodesk CFD and analyzed using a wind tunnel simulation. The airflow velocity was set to 28 m·s⁻¹, and suitable boundary conditions were applied.
+
+The simulation was carried out to study the airflow around the aerofoil and to calculate the lift force generated. The results obtained from the simulation were analyzed, and a report was generated using Autodesk CFD. The generated [report](https://docs.google.com/document/d/1xQMYiv2H-Eu7YTXL4gLikeBLfInwxBzjfpX2Hb-leuM/edit?usp=sharing).
 
 ## Animation and rendering 
 For this task, I designed and assembled the Lego man in Fusion 360 by creating its individual parts and applying appropriate joint relationships, such as revolute joints for the arms and legs, to simulate realistic motion. Using motion studies, I explored how these joints interact and understood the movement constraints of the assembly, successfully animating actions like walking and waving.
