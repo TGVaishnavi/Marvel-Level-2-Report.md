@@ -4,19 +4,42 @@
 This mechanical gripper uses two symmetrical jaws powered by interconnected spur gears, letting both sides move together for a steady and reliable grip. After designing each part, they were assembled in Fusion 360 with carefully applied constraints to ensure smooth, controlled motion.
 ![photo](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/Screenshot%202025-10-06%20180841.png)
 
+
+
 ## Computational Fluid Dynamics
 The aerofoil designed in Level 1 – Task 2(a) was imported into Autodesk CFD and analyzed using a wind tunnel simulation. The airflow velocity was set to 28 m·s⁻¹, and suitable boundary conditions were applied.
 
 The simulation was carried out to study the airflow around the aerofoil and to calculate the lift force generated. The results obtained from the simulation were analyzed, and a report was generated using Autodesk CFD. The generated [report](https://docs.google.com/document/d/1xQMYiv2H-Eu7YTXL4gLikeBLfInwxBzjfpX2Hb-leuM/edit?usp=sharing).
 
-## Generative Design: Generative Design
 
+## Generative Design: Generative Design 
+
+I imported the GE Bracket sample into Fusion 360’s Generative Design to see how it can optimize the bracket shape. First, I selected the important areas like the bolt holes and the pin region as Preserves, so Fusion wouldn’t modify them. Then I added Obstacles so the design won’t grow into spaces where bolts or other parts need clearance. After that, I applied the actual loads and constraints the bracket will experience in real use.
+
+![gebracket](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/ge%20bracket.png)
+
+![gebracket1](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/ge%201%20bracket.png)
+
+
+## Piston and crankshaft mechanism
+
+I designed piston, connecting rod, crankshaft, and cylinder individually in Fusion 360 using proper dimensions. Then I assembled everything into a working slider-crank mechanism with correct mates and motion links. I ran motion simulation to check smooth piston up-down movement, crankshaft rotation, and connecting rod swinging through full cycle.
+
+![piston and crankshaft](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/piston%20and%20crankshaft%20mechanism.png)
+
+![gcode toolpath](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/gcode.png)
+
+
+### ToolPath for the piston 
+
+![crankshafttoolpath](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/crankshaft%20gcode.png)
 
 ## Animation and rendering 
 For this task, I designed and assembled the Lego man in Fusion 360 by creating its individual parts and applying appropriate joint relationships, such as revolute joints for the arms and legs, to simulate realistic motion. Using motion studies, I explored how these joints interact and understood the movement constraints of the assembly, successfully animating actions like walking and waving.
 
 I rendered  the Lego parts and selected an outdoor environment with a cobblestone street. To enhance realism, I set the lighting to sunset timing, which created natural shadows and a warm ambience. The final render placed the Lego man in a lively outdoor setting, making it appear integrated with the environment, and this process helped me gain a deeper understanding of both animation and rendering tools in Fusion 360.
 ![photo](https://raw.githubusercontent.com/TGVaishnavi/Level-3-images/refs/heads/main/Screenshot%202025-10-26%20193731.png)
+
 
 # Introduction to Laser Engraving
 
@@ -169,6 +192,7 @@ Additional key benefits include:
 
 
 Laser engraving represents a powerful and versatile technology that bridges the gap between traditional craftsmanship and modern digital manufacturing. Its precision, permanence, and ease of use make it invaluable in both educational settings and industrial production environments. Whether creating custom keychains for lab branding or permanent product identification markers, laser engraving offers a reliable, efficient solution that continues to revolutionize how we mark and customize materials.
+
 
 
 
